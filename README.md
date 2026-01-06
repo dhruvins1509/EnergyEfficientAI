@@ -3,14 +3,6 @@ Compare model compression methods (quantization, pruning, distillation) on a dee
 
 
 ````markdown
-# Energy-Efficient AI: Compare Model Compression Methods
-
-![Python](https://img.shields.io/badge/python-3.8%2B-blue)
-![Libraries](https://img.shields.io/badge/libraries-numpy%2Ctorch%2Ctorchvision-lightgrey)
-![Dataset](https://img.shields.io/badge/dataset-CIFAR--10-orange)
-
----
-
 ## Project Overview
 This project compares different **model compression methods**—**quantization**, **pruning**, and **knowledge distillation (KD)**—on deep neural networks using the **CIFAR-10 dataset**.  
 It focuses on evaluating the trade-offs between:
@@ -29,8 +21,6 @@ It focuses on evaluating the trade-offs between:
 ```bash
 pip install -r requirements.txt
 ````
-
-> **Note:** Standard Python libraries like `time`, `os`, and `warnings` do not need to be installed separately.
 
 ---
 
