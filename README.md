@@ -19,9 +19,10 @@ It focuses on evaluating the trade-offs between:
 
 ```bash
 git clone https://github.com/dhruvins1509/EnergyEfficientAI.git
-
+```
+```bash
 Install the required Python libraries using the provided `requirements.txt`:
-
+```
 
 
 ---
