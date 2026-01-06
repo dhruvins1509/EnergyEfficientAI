@@ -18,7 +18,8 @@ It focuses on evaluating the trade-offs between:
 1. Make sure you have Python 3.8 or higher installed.  
 2. Install the required Python libraries using the provided `requirements.txt`:
 
-```bash
+```
+bash
 pip install -r requirements.txt
 ````
 
