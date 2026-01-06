@@ -36,8 +36,11 @@ Install the required Python libraries using the provided `requirements.txt`:
 ├── Model_Quantization.ipynb          # Apply quantization
 ├── Knowledge_Distillation.ipynb      # Apply knowledge distillation (KD)
 ├── wide_resnet28_10.py               # WideResNet-28-10 architecture used in notebooks
+├── dataset/                          # Folder containing CIFAR-10 dataset
+├── models/                           # Folder where trained models are saved
 ├── requirements.txt                  # Required Python libraries
 └── README.md                         # Project overview and instructions
+
 ```
 
 ---
