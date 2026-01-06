@@ -2,7 +2,7 @@
 Compare model compression methods (quantization, pruning, distillation) on a deep neural network.
 
 
-````markdown
+
 ## Project Overview
 This project compares different **model compression methods**—**quantization**, **pruning**, and **knowledge distillation (KD)**—on deep neural networks using the **CIFAR-10 dataset**.  
 It focuses on evaluating the trade-offs between:
@@ -18,10 +18,10 @@ It focuses on evaluating the trade-offs between:
 1. Make sure you have Python 3.8 or higher installed.  
 2. Install the required Python libraries using the provided `requirements.txt`:
 
-```
+
 bash
 pip install -r requirements.txt
-````
+
 
 ---
 
